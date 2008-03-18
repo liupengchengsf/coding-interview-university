@@ -2,5 +2,5 @@ SimpleGit Ruby Library
 ======================
 
 This library calls git commands and returns the output.
-
+取消操作练习 git commit --amend
 Author : Scott Chacon
